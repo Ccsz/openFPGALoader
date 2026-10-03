@@ -14,6 +14,8 @@
 
 Universal utility for programming FPGAs. Compatible with many boards, cables and FPGA from major manufacturers (Xilinx, Altera/Intel, Lattice, Gowin, Efinix, Anlogic, Cologne Chip). openFPGALoader works on Linux, Windows, macOS and OpenBSD.
 
+add surport :EP4CE6, EP2C35,EP2C70
+
 Not sure if your hardware is supported? Check the hardware compatibility lists:
 
  * [FPGA compatibility list](https://trabucayre.github.io/openFPGALoader/compatibility/fpga.html)
